@@ -3,8 +3,11 @@
 This project aims to develop a personalized book recommendation system using machine learning techniques. Leveraging collaborative filtering methods, the system analyzes user interactions and book metadata to generate accurate and tailored suggestions.
 
 Libraries and Models Used:
+
 pandas: Data manipulation and analysis.
+
 numpy: Numerical computing.
+
 matplotlib and seaborn: Data visualization.
 ipywidgets: Interactive widgets.
 scikit-learn (sklearn): Machine learning library.
