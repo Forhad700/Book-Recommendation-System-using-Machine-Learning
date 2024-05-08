@@ -2,6 +2,7 @@
 
 This project aims to develop a personalized book recommendation system using machine learning techniques. Leveraging collaborative filtering methods, the system analyzes user interactions and book metadata to generate accurate and tailored suggestions.
 
+
 Libraries and Models Used:
 
 pandas: Data manipulation and analysis.
@@ -9,11 +10,16 @@ pandas: Data manipulation and analysis.
 numpy: Numerical computing.
 
 matplotlib and seaborn: Data visualization.
+
 ipywidgets: Interactive widgets.
+
 scikit-learn (sklearn): Machine learning library.
+
 KNN (K-Nearest Neighbors): Algorithm for generating recommendations.
 
+
 Project Workflow:
+
 Data Exploration: The project begins with loading the dataset containing book information using Pandas. Various attributes such as book title, authors, average rating, language, and publication date are examined to gain insights into the data structure and distribution.
 
 Data Cleaning and Preprocessing: This stage involves handling missing values, duplicate entries, and ensuring consistency in column names and data types. Preprocessing steps include feature extraction (e.g., publication year) and dropping unnecessary columns like bookID and ISBN.
