@@ -5,15 +5,15 @@ This project aims to develop a personalized book recommendation system using mac
 
 ## Libraries and Models Used:
 
-- pandas:  Data manipulation and analysis.
+- Pandas:  Data manipulation and analysis.
 
-- numpy:  Numerical computing.
+- NumPy:  Numerical computing.
 
-- matplotlib and seaborn:  Data visualization.
+- Matplotlib and seaborn:  Data visualization.
 
 - ipywidgets:  Interactive widgets.
 
-- scikit-learn (sklearn):  Machine learning library.
+- Scikit-learn (sklearn):  Machine learning library.
 
 - KNN (K-Nearest Neighbors):  Algorithm for generating recommendations.
 
