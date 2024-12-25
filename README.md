@@ -1,4 +1,4 @@
-# Book-Recommendation-System-using-Machine-Learning
+# Book Recommendation System using Machine Learning
 
 This project aims to develop a personalized book recommendation system using machine learning techniques. Leveraging collaborative filtering methods, the system analyzes user interactions and book metadata to generate accurate and tailored suggestions.
 
